@@ -3,7 +3,7 @@
 
 [Mrakdown语法快速入门](https://github.com/Mshenchen/Tasks/blob/159c12030b3c8ef1078da05ba078600dcf1c099c/Markdown%E8%AF%AD%E6%B3%95%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%20.md)
 
-[git学习](https://github.com/Mshenchen/Tasks/blob/2ed618eb5897706c86dde1b10b01a82d994df571/git%E5%AD%A6%E4%B9%A0.md)
+[git学习](https://github.com/Mshenchen/Tasks/blob/89264b5e7d0888662a6c248ae3693d37b3f222a7/git%E5%AD%A6%E4%B9%A0.md)
 
 [hello.md](https://github.com/Mshenchen/Tasks/blob/81f7596050f8b08c406159e0eb24e10773bf733f/Hello.md)
 
