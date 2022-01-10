@@ -19,4 +19,4 @@
 
 [python做的2048](https://github.com/Mshenchen/Tasks/blob/133f37ab2a10e037ed4c2863477c5e1d42d9db89/2048.py)
 
-[pthon学习资料整理](https://github.com/Mshenchen/Tasks/blob/980f4ea4fe35027fa639d8d0869b08260eb86409/Python%20%E5%AD%A6%E4%B9%A0.md)
+[python学习资料整理](https://github.com/Mshenchen/Tasks/blob/980f4ea4fe35027fa639d8d0869b08260eb86409/Python%20%E5%AD%A6%E4%B9%A0.md)
